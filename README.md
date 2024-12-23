@@ -36,13 +36,13 @@ Publish the website in the given URL.
     <title>About Us - Rio Foods</title>
     <style>
         body {
-            background-color: rgb(168, 38, 223);
+            background-color: rgb(18, 202, 110);
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
         }
         header {
-            background-color: rgb(39, 236, 240);
+            background-color: rgb(126, 148, 247);
             color: white;
             padding: 15px 20px;
             text-align: center;
@@ -50,10 +50,10 @@ Publish the website in the given URL.
         nav {
             display: flex;
             justify-content: center;
-            background-color: rgb(14, 239, 40);
+            background-color: rgb(219, 248, 91);
         }
         nav a {
-            color: rgb(246, 10, 10);
+            color: rgb(245, 28, 198);
             text-decoration: none;
             padding: 14px 20px;
         }
@@ -80,7 +80,7 @@ Publish the website in the given URL.
 </head>
 <body>
     <header>
-        <h1>About Rio Foods</h1>
+        <h1>About Nav Foods</h1>
     </header>
     <nav>
         <a href="menu.html">Menu</a>
@@ -90,24 +90,23 @@ Publish the website in the given URL.
     <section>
         <h2>Our Story</h2>
         <div class="content">
-            <p>Welcome to Rio Foods, where we bring together a love for fresh, delicious meals and a passion for hospitality. Established with the goal of creating memorable dining experiences, Java Foods is your go-to destination for a delightful culinary journey.</p>
+            <p>Welcome to Nav Foods, where we bring together a love for fresh, delicious meals and a passion for hospitality. Established with the goal of creating memorable dining experiences, Java Foods is your go-to destination for a delightful culinary journey.</p>
             <p>Our team is committed to using the finest ingredients to prepare dishes that reflect authenticity and innovation. Whether you're here for a hearty meal, a light snack, or a sweet treat, our menu is designed to cater to every craving.</p>
             <p>We take pride in our warm and inviting atmosphere, perfect for family gatherings, friendly get-togethers, or a quiet meal on your own. At Java Foods, we believe food is more than just sustenance—it's an experience, and we are thrilled to share it with you.</p>
         </div>
     </section>
     <footer>
-        <p>&copy; Rio Foods. All Rights Reserved.</p>
-        <p> designed and developed by: RAHUL RIO S</p>
+        <p>&copy; Nav Foods. All Rights Reserved.</p>
+        <p> designed and developed by: NAVEEN KUMAR S</p>
     </footer>
 </body>
 </html>
-
 
 <html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact Us - Rio Foods</title>
+    <title>Contact Us - Nav Foods</title>
     <style>
         body {
             background-color: rgb(188, 94, 250);
@@ -116,7 +115,7 @@ Publish the website in the given URL.
             padding: 0;
         }
         header {
-            background-color: rgb(79, 253, 247);
+            background-color: rgb(20, 230, 223);
             color: white;
             padding: 15px 20px;
             text-align: center;
@@ -124,7 +123,7 @@ Publish the website in the given URL.
         nav {
             display: flex;
             justify-content: center;
-            background-color: rgb(243, 77, 31);
+            background-color: rgb(168, 250, 62);
         }
         nav a {
             color: white;
@@ -132,7 +131,7 @@ Publish the website in the given URL.
             padding: 14px 20px;
         }
         nav a:hover {
-            background-color: rgb(61, 230, 97);
+            background-color: rgb(223, 106, 28);
         }
         section {
             padding: 20px;
@@ -144,7 +143,7 @@ Publish the website in the given URL.
             line-height: 1.6;
         }
         footer {
-            background-color: rgb(237, 240, 89);
+            background-color: rgb(27, 202, 135);
             color: white;
             text-align: center;
             padding: 10px 20px;
@@ -163,19 +162,17 @@ Publish the website in the given URL.
     <section>
         <h2>A warm welcome</h2>
         <div class="contact-info">
-            <p><strong>Phone:</strong> 9566114819</p>
-            <p><strong>Email:</strong> riofoods@gmail.com</p>
-            <p><strong>Address:</strong> 143 middle Street, trumph road , Chennai</p>
+            <p><strong>Phone:</strong> 8610180295</p>
+            <p><strong>Email:</strong> navfoods@gmail.com</p>
+            <p><strong>Address:</strong> No 11,wild street,Chennai</p>
             <p>we value your feedback</p>
     </section>
     <footer>
-        <p>&copy; Rio Foods. All Rights Reserved.</p>
-        <p> designed and developed by: RAHUL RIO S</p>
+        <p>&copy; Nav Foods. All Rights Reserved.</p>
+        <p> designed and developed by: NAVEEN KUMAR S</p>
     </footer>
 </body>
 </html>
-
-
 
 <html>
 <head>
@@ -206,7 +203,7 @@ Publish the website in the given URL.
             padding: 14px 20px;
         }
         nav a:hover {
-            background-color: rgb(70, 242, 141);
+            background-color: rgba(133, 231, 22, 0.884);
         }
         .welcome {
             display: flex;
@@ -238,7 +235,7 @@ Publish the website in the given URL.
             width: 300px;
         }
         footer {
-            background-color: rgb(242, 229, 91);
+            background-color: rgb(75, 27, 250);
             color: white;
             text-align: center;
             padding: 10px 20px;
@@ -247,7 +244,7 @@ Publish the website in the given URL.
 </head>
 <body>
     <header>
-        <h1>Welcome to Rio Foods</h1>
+        <h1>Welcome to Nav Foods</h1>
     </header>
     <nav>
         <a href="home.html">Home</a>
@@ -257,7 +254,7 @@ Publish the website in the given URL.
     </nav>
     <div class="welcome">
         <h1>Your Destination for Exquisite Cuisine</h1>
-        <p>Rio Foods offers a wide range of delicious dishes made from the freshest ingredients. Experience the taste of perfection with every bite!</p>
+        <p>Nav foods offers a wide range of delicious dishes made from the freshest ingredients. Experience the taste of perfection with every bite!</p>
     </div>
     <section class="features">
         <div class="feature">
@@ -274,27 +271,26 @@ Publish the website in the given URL.
         </div>
     </section>
     <footer>
-        <p>&copy; Rio Foods. All Rights Reserved.</p>
-        <p> designed and developed by: RAHUL RIO S</p>
+        <p>&copy; Nav Foods. All Rights Reserved.</p>
+        <p> designed and developed by: Naveen kumar S</p>
     </footer>
 </body>
 </html>
-
 
 <html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Menu - Rio Foods</title>
+    <title>Menu - Nav Foods</title>
     <style>
         body {
-            background-color: rgb(245, 83, 220);
+            background-color: rgb(232, 230, 250);
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
         }
         header {
-            background-color: rgb(92, 223, 225);
+            background-color: rgb(34, 240, 212);
             color: white;
             padding: 15px 20px;
             text-align: center;
@@ -302,7 +298,7 @@ Publish the website in the given URL.
         nav {
             display: flex;
             justify-content: center;
-            background-color: rgb(85, 241, 90);
+            background-color: rgb(220, 240, 43);
         }
         nav a {
             color: rgb(248, 97, 97);
@@ -310,7 +306,7 @@ Publish the website in the given URL.
             padding: 14px 20px;
         }
         nav a:hover {
-            background-color: rgb(198, 224, 114);
+            background-color: rgb(95, 84, 160);
         }
         section {
             padding: 20px;
@@ -333,7 +329,7 @@ Publish the website in the given URL.
             border-radius: 5px;
         }
         footer {
-            background-color: rgb(205, 205, 87);
+            background-color: rgb(90, 170, 97);
             color: white;
             text-align: center;
             padding: 10px 20px;
@@ -354,35 +350,34 @@ Publish the website in the given URL.
         <h2>Explore Our Dishes</h2>
         <div class="menu">
             <div class="menu-item">
-                <img src="briyani.jpeg" alt="briyani">
-                <h3>briyani</h3>
-                <p>A flavorful and spicy Indian appetizer made with juicy chicken , steamed to have a tasty perfection.</p>
+                <img src="Fried Rice.jpeg" alt="fried rice">
+                <h3>Fried Rice</h3>
+                <p>A flavorful and spicy rice with veggies.. and chicken or paneer etc..</p>
             </div>
             <div class="menu-item">
-                <img src="parotta 95.jpeg" alt="Parotta 95 Masala">
-                <h3>Parotta 95 Masala</h3>
-                <p>A rich and creamy North Indian curry with soft parotta in a buttery tomato-based gravy.</p>
+                <img src="Indian Thali.jpeg" alt="Indian Thali">
+                <h3>Meals</h3>
+                <p>Indian thali have a more dishes including rice  gravy  sidedish,chips...etc..</p>
             </div>
             <div class="menu-item">
-                <img src="grill.jpeg" alt="grill">
-                <h3>grill</h3>
-                <p>grill is an american based dish made of chicken fired to juicy flavour.</p>
+                <img src="Butter Chicken.jpeg" alt="Butter chicken">
+                <h3> Butter chicken</h3>
+                <p>Butter chicken is an Indian based dish made of chicken  to juicy flavour.</p>
             </div>
         </div>
     </section>
     <footer>
-        <p>&copy; Rio Foods. All Rights Reserved.</p>
-        <p> designed and developed by: RAHUL RIO S</p>
+        <p>&copy; Nav Foods. All Rights Reserved.</p>
+        <p> designed and developed by: NAVEEN KUMAR S</p>
     </footer>
 </body>
 </html>
-
 
 <html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rio foods</title>
+    <title>Nav foods</title>
     <style>
         body {
             background-color: cornsilk;
@@ -450,7 +445,7 @@ Publish the website in the given URL.
 </head>
 <body>
     <header>
-        <h1>Rio foods</h1>
+        <h1>Nav foods</h1>
     </header>
     <nav>
         <a href="home.html">home</a>
@@ -469,41 +464,45 @@ Publish the website in the given URL.
         <h2>Our Menu</h2>
         <div class="menu">
             <div class="menu-item">
-                <img src="briyani.jpeg">
-                <h3>briyani</h3>
-                <p>A flavorful and spicy Indian appetizer made with juicy chicken , steamed to have a tasty perfection.</p>
+                <img src="Indian Thali.jpeg">
+                <h3>Meals</h3>
+                <p>A flavorful gravy  and white rice with so much of sidedishes , steamed to have a tasty perfection.</p>
             </div>
             <div class="menu-item">
-                <img src="parotta 95.jpeg">
-                <h3>parotta 95</h3>
-                <p>A rich and creamy North Indian curry with soft parotta in a buttery tomato-based gravy.</p>
+                <img src="Butter Chicken.jpeg">
+                <h3>buter chicken</h3>
+                <p>A gravy and creamy North Indian curry with soft chicken in a buttery tomato-based gravy.</p>
             </div>
             <div class="menu-item">
-                <img src="grill.jpeg">
-                <h3>grill</h3>
-                <p>grill is an american based dish made of chicken fired to juicy flavour.</p>
+                <img src="Fried Rice.jpeg">
+                <h3>fried rice</h3>
+                <p>fried rice is an chineese based dish made of chicken fired to juicy flavour.</p>
             </div>
         </div>
     </section>
     <section id="contact">
         <h2>Contact Us</h2>
-        <p>Phone:9566114819</p>
-        <p>Email:riofoods@gmail.com</p>
-        <p>Address: 143 rio Street,trumph road ,chennai</p>
+        <p>Phone:8610180295</p>
+        <p>Email:navfoods@gmail.com</p>
+        <p>Address: no 11,wild street, chennai</p>
     </section>
     <footer>
-        <p>&copy; rio foods. All Rights Reserved.</p>
+        <p>&copy; Nav foods. All Rights Reserved.</p>
     </footer>
 </body>
 </html>
 
+
 ```
 ## OUTPUT:
 
-![alt text](<Screenshot (188).png>)
-![alt text](<Screenshot (189).png>)
-![alt text](<Screenshot (190).png>)
-![alt text](<Screenshot (191).png>)
+![alt text](<Screenshot 2024-12-21 144501.png>)
+
+![alt text](<Screenshot 2024-12-21 144544.png>)
+
+![alt text](<Screenshot 2024-12-21 144605.png>)
+
+![alt text](<Screenshot 2024-12-21 144621.png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
