@@ -1,5 +1,5 @@
 # Ex.07 Restaurant Website
-## Date:17/12/2024
+## Date:23/12/2024
 
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
@@ -33,7 +33,7 @@ Publish the website in the given URL.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Us - Rio Foods</title>
+    <title>About Us - Nav Foods</title>
     <style>
         body {
             background-color: rgb(18, 202, 110);
